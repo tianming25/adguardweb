@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /        # 允许抓取全站
+Sitemap: https://adguard.xiuluoshen2025.ip-ddns.com/sitemap.xml  # 指向您的sitemap
